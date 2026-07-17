@@ -17,38 +17,16 @@
 
 ## 🧠 Who I Am
 
-```typescript
-const zain = {
-  title: "Aspiring Software Engineer | Final Year Software Engineering Student",
-  university: "Air University, Karachi Campus",
-  experience: "Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra",
-  summary:
-    "Practical experience in mobile application development, artificial intelligence, " +
-    "compiler construction, database systems, and networking. Proficient in Java, Flutter, " +
-    "and Python, with a passion for building efficient, user-centric applications and " +
-    "continuously expanding technical expertise.",
-  stack: {
-    languages: ["Java", "Python", "Dart", "C#", "C++", "JavaScript", "SQL"],
-    mobile: ["Flutter", "Android Studio", "Java", "XML", "Firebase"],
-    ai: ["Python", "OpenCV", "TensorFlow", "CNN", "Machine Learning"],
-    databases: ["MySQL", "SQLite", "Microsoft Access", "Firebase Firestore"],
-    networking: ["Cisco Packet Tracer", "VLAN Configuration", "IP Addressing", "Routing & Switching"],
-    softwareEngineering: [
-      "Object-Oriented Programming (OOP)",
-      "Software Development Life Cycle (SDLC)",
-      "Compiler Construction",
-      "REST API Integration",
-      "Database Design",
-      "Data Structures & Algorithms",
-    ],
-    tools: ["GitHub", "Visual Studio Code", "Android Studio", "Visual Studio"],
-  },
-  launchedProjects: ["Hospital-Management-System", "weather-checking-tracker"],
-  certifications: [],
-  status: "Final Year Student, Software Engineering",
-  openTo: ["Software Engineering Roles", "Mobile App Development", "AI/ML Projects"],
-};
-```
+### 🎓 Aspiring Software Engineer | Final Year Software Engineering Student
+
+**🏫 University:** Air University, Karachi Campus
+**💼 Experience:** Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra
+
+Practical experience in mobile application development, artificial intelligence, compiler construction, database systems, and networking. Proficient in Java, Flutter, and Python, with a passion for building efficient, user-centric applications and continuously expanding technical expertise.
+
+- 🚀 **Featured Projects:** Hospital Management System, Weather Checking Tracker
+- 📌 **Status:** Final Year Student, Software Engineering
+- 🎯 **Open To:** Software Engineering Roles · Mobile App Development · AI/ML Projects
 
 <br/>
 
