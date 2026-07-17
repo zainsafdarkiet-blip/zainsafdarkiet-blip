@@ -36,7 +36,7 @@ const zain = {
     ],
     tools: ["GitHub", "Visual Studio Code", "Android Studio", "Visual Studio"],
   },
-  launchedProjects: ["myfirstproject", "weather-checking-tracker"],
+  launchedProjects: ["Hospital-Management-System", "weather-checking-tracker"],
   certifications: [],
   status: "Final Year Student, Software Engineering",
   openTo: ["Software Engineering Roles", "Mobile App Development", "AI/ML Projects"],
@@ -47,12 +47,12 @@ const zain = {
 
 ## 🚀 Featured Projects
 
-### 📌 myfirstproject
+### 📌 Hospital Management System
 
 My first Microsoft Access project.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainsafdarkiet-blip&repo=myfirstproject&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="myfirstproject"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainsafdarkiet-blip&repo=Hospital-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Hospital Management System"/>
 </div>
 
 | Layer | Technology |
@@ -62,7 +62,7 @@ My first Microsoft Access project.
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/zainsafdarkiet-blip/myfirstproject)
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/zainsafdarkiet-blip/Hospital-Management-System)
 
 </div>
 
