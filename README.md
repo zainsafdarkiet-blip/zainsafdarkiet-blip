@@ -20,6 +20,7 @@
 ### 🎓 Aspiring Software Engineer | Final Year Software Engineering Student
 
 🏫 **University:** Air University, Karachi Campus.
+
 💼 **Experience:** Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra
 
 Practical experience in mobile application development, artificial intelligence, compiler construction, database systems, and networking. Proficient in Java, Flutter, and Python, with a passion for building efficient, user-centric applications and continuously expanding technical expertise.
