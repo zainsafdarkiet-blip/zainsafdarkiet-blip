@@ -19,7 +19,14 @@
 
 ```typescript
 const zain = {
-  title: "Software Engineering Final Year Student",
+  title: "Aspiring Software Engineer | Final Year Software Engineering Student",
+  university: "Air University, Karachi Campus",
+  experience: "Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra",
+  summary:
+    "Practical experience in mobile application development, artificial intelligence, " +
+    "compiler construction, database systems, and networking. Proficient in Java, Flutter, " +
+    "and Python, with a passion for building efficient, user-centric applications and " +
+    "continuously expanding technical expertise.",
   stack: {
     languages: ["Java", "Python", "Dart", "C#", "C++", "JavaScript", "SQL"],
     mobile: ["Flutter", "Android Studio", "Java", "XML", "Firebase"],
