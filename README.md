@@ -98,8 +98,12 @@ A weather tracking app.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=zainsafdarkiet-blip&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainsafdarkiet-blip&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<table>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=zainsafdarkiet-blip&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="100%"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainsafdarkiet-blip&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="100%"/></td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com?user=zainsafdarkiet-blip&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
@@ -108,7 +112,7 @@ A weather tracking app.
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zainsafdarkiet-blip&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=zainsafdarkiet-blip&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Activity
