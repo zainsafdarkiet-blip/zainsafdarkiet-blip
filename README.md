@@ -19,9 +19,8 @@
 
 ### 🎓 Aspiring Software Engineer | Final Year Software Engineering Student
 
-🏫 **University:** Air University, Karachi Campus.
-
-💼 **Experience:** Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra
+**🏫 University:** Air University, Karachi Campus
+**💼 Experience:** Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra
 
 Practical experience in mobile application development, artificial intelligence, compiler construction, database systems, and networking. Proficient in Java, Flutter, and Python, with a passion for building efficient, user-centric applications and continuously expanding technical expertise.
 
@@ -38,7 +37,7 @@ Practical experience in mobile application development, artificial intelligence,
 My first Microsoft Access project.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainsafdarkiet-blip&repo=Hospital-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Hospital Management System"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=zainsafdarkiet-blip&repo=Hospital-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Hospital Management System"/>
 </div>
 
 | Layer | Technology |
@@ -59,7 +58,7 @@ My first Microsoft Access project.
 A weather tracking app.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zainsafdarkiet-blip&repo=weather-checking-tracker&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="weather-checking-tracker"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=zainsafdarkiet-blip&repo=weather-checking-tracker&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="weather-checking-tracker"/>
 </div>
 
 | Layer | Technology |
@@ -99,8 +98,8 @@ A weather tracking app.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zainsafdarkiet-blip&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainsafdarkiet-blip&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=zainsafdarkiet-blip&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainsafdarkiet-blip&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=zainsafdarkiet-blip&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
