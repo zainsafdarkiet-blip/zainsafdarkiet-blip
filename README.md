@@ -11,61 +11,28 @@
 <img src="https://komarev.com/ghpvc/?username=zainsafdarkiet-blip&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/zainsafdarkiet-blip?label=Followers&style=for-the-badge&color=7dd3fc" alt="Followers"/>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainsafdarkiet-blip/zainsafdarkiet-blip/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainsafdarkiet-blip/zainsafdarkiet-blip/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/zainsafdarkiet-blip/zainsafdarkiet-blip/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:0ea5e9&height=4&width=100%25" width="100%"/>
 
 <br/>
 
 ## 🧠 Who I Am
 
-```typescript
-const zain = {
-  title: "Aspiring Software Engineer | Final Year Software Engineering Student",
-  university: "Air University, Karachi Campus",
-  experience: "Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra",
-  summary:
-    "Practical experience in mobile application development, artificial intelligence, " +
-    "compiler construction, database systems, and networking. Proficient in Java, Flutter, " +
-    "and Python, with a passion for building efficient, user-centric applications and " +
-    "continuously expanding technical expertise.",
-  stack: {
-    languages: ["Java", "Python", "Dart", "C#", "C++", "JavaScript", "SQL"],
-    mobile: ["Flutter", "Android Studio", "Java", "XML", "Firebase"],
-    ai: ["Python", "OpenCV", "TensorFlow", "CNN", "Machine Learning"],
-    databases: ["MySQL", "SQLite", "Microsoft Access", "Firebase Firestore"],
-    networking: ["Cisco Packet Tracer", "VLAN Configuration", "IP Addressing", "Routing & Switching"],
-    softwareEngineering: [
-      "Object-Oriented Programming (OOP)",
-      "Software Development Life Cycle (SDLC)",
-      "Compiler Construction",
-      "REST API Integration",
-      "Database Design",
-      "Data Structures & Algorithms",
-    ],
-    tools: ["GitHub", "Visual Studio Code", "Android Studio", "Visual Studio"],
-  },
-  certifications: [],
-  status: "Final Year Student, Software Engineering",
-  openTo: ["Software Engineering Roles", "Mobile App Development", "AI/ML Projects"],
-};
-```
+### 🎓 Aspiring Software Engineer | Final Year Software Engineering Student
+
+**🏫 University:** Air University, Karachi Campus
+
+**💼 Experience:** Software Engineering Intern @ Aircraft Rebuild Factory (ARF), Pakistan Aeronautical Complex (PAC) Kamra
+
+Practical experience in mobile application development, artificial intelligence, compiler construction, database systems, and networking. Proficient in Java, Flutter, and Python, with a passion for building efficient, user-centric applications and continuously expanding technical expertise.
+
+- 🚀 **Featured Projects:** Hospital Management System, Weather Checking Tracker
+- 📌 **Status:** Final Year Student, Software Engineering
+- 🎯 **Open To:** Software Engineering Roles · Mobile App Development · AI/ML Projects
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:0ea5e9&height=4&width=100%25" width="100%"/>
-
 ## 🚀 Featured Projects
 
-<!-- PROJECTS:START -->
 ### 📌 Hospital Management System
 
 My first Microsoft Access project.
@@ -107,9 +74,6 @@ A weather tracking app.
 </div>
 
 <br/>
-<!-- PROJECTS:END -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:0ea5e9&height=4&width=100%25" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -131,8 +95,6 @@ A weather tracking app.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:0ea5e9&height=4&width=100%25" width="100%"/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -148,16 +110,11 @@ A weather tracking app.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:0ea5e9&height=4&width=100%25" width="100%"/>
-
 ## 🏆 Trophies
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=zainsafdarkiet-blip&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:0ea5e9&height=4&width=100%25" width="100%"/>
 
 ## 📈 Contribution Activity
 
@@ -166,8 +123,6 @@ A weather tracking app.
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:0ea5e9&height=4&width=100%25" width="100%"/>
 
 ## 📫 Connect With Me
 
