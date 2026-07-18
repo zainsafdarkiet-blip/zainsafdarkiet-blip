@@ -112,7 +112,7 @@ A weather tracking app.
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=zainsafdarkiet-blip&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=zainsafdarkiet-blip&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Activity
