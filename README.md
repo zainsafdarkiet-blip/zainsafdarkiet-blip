@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:0ea5e9&height=220&section=header&text=Muhammad%20Zain&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Final%20Year%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Muhammad%20Zain&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Final%20Year%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/zainsafdarkiet-blip">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineering+Final+Year+Student;Flutter+%26+Mobile+App+Developer;AI+%2F+Machine+Learning+Enthusiast;Open+to+Work+Opportunities" alt="Typing SVG" />
@@ -132,4 +132,4 @@ A weather tracking app.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0047AB&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
